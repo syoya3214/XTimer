@@ -1,0 +1,15 @@
+# PyInstaller
+build/
+dist/
+*.spec
+_internal/
+XTimer.exe
+XTimer_internal_bak/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# バックアップ
+*.bak
