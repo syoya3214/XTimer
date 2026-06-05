@@ -22,6 +22,20 @@ activation.mp3がギミック前の時報サウンドです
 
 ==================================================
 
+- 導入方法
+
+1. 右記のReleasesページから最新の XTimer_vX.X.X.zip をダウンロード
+   https://github.com/syoya3214/XTimer/releases
+
+2. zipを任意のフォルダに解凍する
+
+3. 解凍したフォルダ内の XTimer.exe を実行する
+
+※ Windows Defender などのウイルス対策ソフトが警告を出す場合がありますが、
+   「詳細情報」→「実行」で起動できます（PyInstallerでビルドした自作EXEのため誤検知です）
+
+==================================================
+
 - クレジット
 音素材：OtoLogic(https://otologic.jp)
 
